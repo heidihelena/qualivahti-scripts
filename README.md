@@ -19,6 +19,14 @@ Design invariants a reviewer can check in the code:
 - Every run appends to an audit trail with the model name and version.
 - Frequency outputs carry the caption "frequency is not importance" in the output itself.
 
+## Install the R side as a package
+
+```r
+install.packages("qualivahti", repos = "https://heidihelena.r-universe.dev")
+```
+
+The package (in `rpkg/`) ships the R scripts and thin runners: `qv_coding_summary("~/MyVault")`, `qv_code_frequency()`, `qv_code_by_participant()`, `qv_theme_matrix()`, `qv_cooccurrence_network()`, `qv_results_tables()`. Same scripts, callable from an R session; `qv_scripts_path()` shows where they live.
+
 ## Requirements
 
 Python ≥ 3.10 (`pip install -r python/requirements.txt` — faster-whisper, requests), [Ollama](https://ollama.com) with any local model, and R with tidyverse + igraph (ggraph and ragg used when present). The scripts expect the QualiVahti vault folder layout; standalone use mostly works with `--vault <folder>` pointing at a folder using the same structure.

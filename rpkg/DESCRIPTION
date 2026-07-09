@@ -1,0 +1,22 @@
+Package: qualivahti
+Type: Package
+Title: Local-First Qualitative Analysis Scripts (QualiVahti)
+Version: 1.0.0
+Authors@R: person("Heidi Helena", "Andersén",
+    email = "hello@vahtian.com",
+    role = c("aut", "cre"),
+    comment = c(ORCID = "0000-0001-5923-5865"))
+Description: Runners for the QualiVahti analysis scripts: coding review
+    summaries, code frequency tables and charts, code-by-participant and
+    theme-by-participant matrices, code co-occurrence network drawings, and
+    publication-ready descriptive tables built from human-reviewed
+    qualitative coding. All processing is local and only rows a human
+    reviewer marked accepted or edited are counted. The scripts ship inside
+    the package (see qv_scripts_path()) and can also be run directly with
+    Rscript; they are the open analysis engine of the QualiVahti Local
+    vault <https://vahtian.com/qualivahti-local/>.
+License: Apache License (>= 2)
+URL: https://vahtian.com/qualivahti-local/, https://github.com/heidihelena/qualivahti-scripts
+BugReports: https://github.com/heidihelena/qualivahti-scripts/issues
+Encoding: UTF-8
+Suggests: dplyr, readr, tidyr, ggplot2, igraph, ggraph, ragg
