@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these scripts in a study, please cite them as below (a Zenodo DOI is minted per release — prefer the DOI once available)."
+title: "QualiVahti analysis scripts"
+type: software
+version: 1.0.0
+date-released: 2026-07-09
+license: Apache-2.0
+authors:
+  - family-names: "Andersén"
+    given-names: "Heidi Helena"
+    orcid: "https://orcid.org/0000-0001-5923-5865"
+keywords:
+  - qualitative research
+  - thematic analysis
+  - local-first
+  - transcription
+  - Whisper
+  - large language models
+  - human review
+  - audit trail
+  - R
+  - Python
+abstract: >-
+  Python and R scripts for local-first qualitative analysis: Whisper
+  transcription on the researcher's own machine, AI-suggested first-cycle
+  coding under full human review (accepted/edited/rejected/unclear), quote
+  evidence tables, code co-occurrence networks, theme matrices, and
+  publication-ready descriptive tables. No research data leaves the machine;
+  every model run is recorded with name and version in an audit trail.
+  The scripts are the open analysis engine of QualiVahti Local
+  (https://vahtian.com/qualivahti-local/).

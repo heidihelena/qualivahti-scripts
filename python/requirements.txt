@@ -1,0 +1,4 @@
+# QualiVahti Local — Python dependencies (one-time setup)
+# In Terminal, from the vault folder:  pip3 install -r _scripts/python/requirements.txt
+faster-whisper>=1.0
+requests>=2.28
