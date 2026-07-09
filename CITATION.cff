@@ -29,3 +29,4 @@ abstract: >-
   every model run is recorded with name and version in an audit trail.
   The scripts are the open analysis engine of QualiVahti Local
   (https://vahtian.com/qualivahti-local/).
+doi: 10.5281/zenodo.21274891

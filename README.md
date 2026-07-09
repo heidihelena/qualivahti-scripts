@@ -33,7 +33,7 @@ Python ≥ 3.10 (`pip install -r python/requirements.txt` — faster-whisper, re
 
 ## How to cite
 
-> Andersén HH. QualiVahti analysis scripts (version 1.0) [computer software]. Apache-2.0. DOI: *(Zenodo DOI appears here after the first archived release)*
+> Andersén HH. QualiVahti analysis scripts (version 1.0) [computer software]. Apache-2.0. Zenodo. https://doi.org/10.5281/zenodo.21274892 (this version) · https://doi.org/10.5281/zenodo.21274891 (all versions)
 
 See `CITATION.cff` — GitHub's "Cite this repository" button uses it.
 
