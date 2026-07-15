@@ -3,14 +3,10 @@
 Open-source Python and R scripts for local-first qualitative analysis: transcription on your own machine, AI-suggested coding under full human review, and publication-ready qualitative summaries. Apache-2.0 — include them freely in journal supplements, review packages, and repositories.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="assets/hero-workflow-dark.svg">
-    <img
+  <img
       src="assets/hero-workflow.svg"
       alt="QualiVahti workflow: audio or text is transcribed locally; an AI suggests codes; the researcher accepts, edits or rejects each suggestion; only human-reviewed codes become evidence-linked themes and outputs (tables, networks, Obsidian) — localhost only, reviewed files kept separate, audit trail per run"
       width="1200">
-  </picture>
 </p>
 
 These scripts are the analysis engine of **[QualiVahti Local](https://vahtian.com/qualivahti-local/)**, a paid Obsidian vault (forskai by Vahtian) that packages them with templates, dashboards, an evidence-aware Canvas, and a complete demo study. The scripts are open so that any study using them can meet journal code-availability requirements and so reviewers can inspect exactly what the AI was allowed to do. The rule throughout: **models suggest structure; the researcher decides interpretation.**
