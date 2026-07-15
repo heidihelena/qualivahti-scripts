@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 400" role="img" aria-labelledby="hero-title hero-desc">
+<title id="hero-title">QualiVahti workflow</title>
+<desc id="hero-desc">Audio or text is transcribed locally; an AI suggests codes; the researcher accepts, edits or rejects each suggestion; only human-reviewed codes become evidence-linked themes and publication outputs.</desc>
+<rect x="0.5" y="0.5" width="1319" height="399" rx="12" fill="#2D2440" stroke="#453a5e"/>
+<text x="48" y="66" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.5" fill="#C5B8E8">QUALITATIVE ANALYSIS · LOCAL-FIRST</text>
+<text x="48" y="104" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#F2EFF8">Local qualitative analysis with human-controlled AI</text>
+<text x="1272" y="66" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#C5B8E8">VAHTIAN</text>
+<rect x="48.0" y="158" width="119.2" height="74" rx="8" fill="#362B4F" stroke="#C5B8E8" stroke-width="1.5"/>
+<text x="107.6" y="190.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">Audio /</text>
+<text x="107.6" y="211.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">text</text>
+<line x1="171.2" y1="195.0" x2="194.7" y2="195.0" stroke="#C5B8E8" stroke-width="1.8"/><path d="M 194.7 190.0 L 202.7 195.0 L 194.7 200.0 Z" fill="#C5B8E8"/>
+<rect x="203.7" y="158" width="176.8" height="74" rx="8" fill="#362B4F" stroke="#C5B8E8" stroke-width="1.5"/>
+<text x="292.1" y="190.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">Local</text>
+<text x="292.1" y="211.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">transcription</text>
+<line x1="384.5" y1="195.0" x2="408.0" y2="195.0" stroke="#C5B8E8" stroke-width="1.8"/><path d="M 408.0 190.0 L 416.0 195.0 L 408.0 200.0 Z" fill="#C5B8E8"/>
+<rect x="417.0" y="158" width="157.6" height="74" rx="8" fill="#362B4F" stroke="#C5B8E8" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="495.8" y="190.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">AI code</text>
+<text x="495.8" y="211.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">suggestions</text>
+<line x1="578.6" y1="195.0" x2="602.0" y2="195.0" stroke="#C5B8E8" stroke-width="1.8"/><path d="M 602.0 190.0 L 610.0 195.0 L 602.0 200.0 Z" fill="#C5B8E8"/>
+<rect x="611.0" y="158" width="176.8" height="74" rx="8" fill="#A2C05C" stroke="#A2C05C" stroke-width="1.5"/>
+<text x="699.4" y="190.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#1c1830">Accept / edit</text>
+<text x="699.4" y="211.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#1c1830">/ reject</text>
+<text x="699.4" y="149.0" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#C5B8E8">YOU DECIDE</text>
+<line x1="791.8" y1="195.0" x2="815.3" y2="195.0" stroke="#C5B8E8" stroke-width="1.8"/><path d="M 815.3 190.0 L 823.3 195.0 L 815.3 200.0 Z" fill="#C5B8E8"/>
+<rect x="824.3" y="158" width="196.0" height="74" rx="8" fill="#362B4F" stroke="#C5B8E8" stroke-width="1.5"/>
+<text x="922.3" y="190.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">Evidence-linked</text>
+<text x="922.3" y="211.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">themes</text>
+<line x1="1024.3" y1="195.0" x2="1047.8" y2="195.0" stroke="#C5B8E8" stroke-width="1.8"/><path d="M 1047.8 190.0 L 1055.8 195.0 L 1047.8 200.0 Z" fill="#C5B8E8"/>
+<rect x="1056.8" y="158" width="215.2" height="74" rx="8" fill="#362B4F" stroke="#C5B8E8" stroke-width="1.5"/>
+<text x="1164.4" y="190.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">Tables · networks</text>
+<text x="1164.4" y="211.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EFF8">· Obsidian</text>
+<line x1="52" y1="306" x2="1268" y2="306" stroke="#8d80ab" stroke-width="1"/>
+<rect x="201.0" y="303" width="6" height="6" rx="1.5" fill="#A2C05C" stroke="#A2C05C" stroke-width="1"/>
+<text x="204.0" y="330" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#C5B8E8">localhost only</text>
+<rect x="505.0" y="303" width="6" height="6" rx="1.5" fill="#A2C05C" stroke="#A2C05C" stroke-width="1"/>
+<text x="508.0" y="330" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#C5B8E8">Reviewed files kept separate</text>
+<rect x="809.0" y="303" width="6" height="6" rx="1.5" fill="#A2C05C" stroke="#A2C05C" stroke-width="1"/>
+<text x="812.0" y="330" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#C5B8E8">Audit trail per run</text>
+<rect x="1113.0" y="303" width="6" height="6" rx="1.5" fill="#A2C05C" stroke="#A2C05C" stroke-width="1"/>
+<text x="1116.0" y="330" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#C5B8E8">Apache-2.0</text>
+<line x1="890.9" y1="378" x2="920.9" y2="378" stroke="#C5B8E8" stroke-width="1.5" stroke-dasharray="6 5"/><text x="1272" y="382" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#C5B8E8">dashed = AI suggestion · solid = human-reviewed</text>
+</svg>
